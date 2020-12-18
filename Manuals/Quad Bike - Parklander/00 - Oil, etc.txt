@@ -1,0 +1,32 @@
+Tyre pressure(kPa) 	Front:25 	REAR:25
+
+Tyre size 	Front:20×7-10 	REAR:20×10-10
+
+SPARK PLUG recommended: 	C7HSA NGK
+
+Engine Oil:	SAE 15W/40
+		15w-40 for summer time.
+		-10 C to +40 C
+		use lighter weight if colder than -10 C.  e.g. 5W/30
+
+The level must be maintained between the upper and
+lower level marks on the dipstick.
+1. Start the engine and let it idle for a few minutes.
+2. Stop the engine and put the vehicle on a level ground.
+3. After a few minutes, remove the oil filler cap/
+dipstick, wipe it clean, and reinsert the dipstick without
+screwing it in, remove the dipstick. The oil level should be
+between the upper and lower level marks on the dipstick.
+
+Change the engine oil as specifi ed in the
+maintenance schedule.
+1. Drain out the engine oil in the crankcase completely.
+2. Clean the crankcase inside with cleaning lerosene.
+3. Add specifi ed engine oil about 0.8L.
+
+
+BRAKE LIQUID
+Be care to check the brake liquid in the main cylinder
+located on the left handlebar for proper level, and add the
+specified liquid if necessary. As the brake pads wear, the
+brake liquid level drops.
