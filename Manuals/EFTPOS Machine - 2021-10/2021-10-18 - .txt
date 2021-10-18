@@ -1,0 +1,39 @@
+Fiserv Service and Support
+Ph. 1800 243 444
+
+Merchant ID:	003739612
+Terminal ID:	45002577
+Kinka Palms Motel
+Michael O'Malley
+07 4939 6437
+
+Mon, 18-Oct-2021, 03:57 PM
+
+Earl
+
+Pre-Auth - already enabled
+
+We need:
+* Pre-Auth - enable Completion / Cancellation
+
+
+
+Need to speak to Merchant Services ... not EFTPOS Terminal Support
+1 -> 4
+
+
+Carla
+
+Approved: at 3:24 PM.
+Service Requirement Team
+
+
+They will call tomorrow and tell us it is enabled.
+
+
+Password
+= last 4 digits of Merchant ID
+= 9612
+
+
+END:	Mon, 18-Oct-2021, 04:11 PM
