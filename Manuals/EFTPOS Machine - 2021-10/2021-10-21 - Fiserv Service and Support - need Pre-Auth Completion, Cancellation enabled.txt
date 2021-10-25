@@ -1,0 +1,70 @@
+Fiserv Service and Support - need Pre-Auth Completion, Cancellation enabled
+
+Phone call #3.
+
+
+Fiserv Service and Support
+Ph. 1800 243 444
+
+Merchant ID:	003739612
+Terminal ID:	45002577
+Kinka Palms Motel
+Michael O'Malley
+07 4939 6437
+
+Thu, 21-Oct-2021, 11:43 AM
+
+Need to speak to Merchant Services ... not EFTPOS Terminal Support
+1 -> 4
+
+
+Pre-Auth - already enabled
+We need:
+* Pre-Auth - enable Completion / Cancellation
+
+This is my 3rd phone call.
+
+
+
+Melody
+* She can see that my "Pre-Auth - enable Completion / Cancellation" request is in their system, she will check on what is going on.
+* She reckons that "Pre-Auth Completion" is already done and should be on my terminal now.
+* She will re-raise my "Pre-Auth Cancellation" request - as a follow up request - and TAG it as urgent.
+
+Reference Number: 70022100
+
+I said "Pre-Auth Completion" is NOT available on my machine.
+I can see the option in the User manual, but it is not showing on my terminal.
+Do I need to do a reset or something ?
+
+She could not answer ...
+
+She will transfer me to Technical Support to check out Pre-Auth Completion
+
+Dan
+* terrible phone line, breaking up badly.
+* Claims it will be 1-2 business days more before these options are enabled on my terminal.
+* said they will call me when it is done.
+* I need to refresh my terminal - she sais press Function 102 - does NOT make sense.
+1 = Transaction, 0 = not available,
+asked her to speak slowly and clearly and still could not get what she was saying.
+Fucking hopeless.
+
+
+
+END: Thu, 21-Oct-2021, 12:04 PM
+
+
+After I got off the phone from here I looked in the manual,
+saw the "FUNC" key ... ahh, I see now - why didn't she say press the FUNC key ?????
+
+FUNC 102
+
+The Pre-Auth Completion option is NOW there (but on a different menu to the manual)
+
+I cannot do a Completion for 0
+it will not let me proceed.
+
+CANCEL is definitely required.
+
+EOF.
