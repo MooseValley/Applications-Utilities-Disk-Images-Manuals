@@ -1,0 +1,128 @@
+Fiserv Service and Support - need Pre-Auth Completion, Cancellation enabled
+
+Phone call #4.
+
+
+Fiserv Service and Support
+Ph. 1800 243 444
+
+Merchant ID:	003739612
+Terminal ID:	45002577
+Kinka Palms Motel
+Michael O'Malley
+07 4939 6437
+
+Reference Number: 70022100
+
+
+START: Wed, 27-Oct-2021, 11:01 AM
+
+Need to speak to Merchant Services ... not EFTPOS Terminal Support
+1 -> 4
+
+Josh
+Reference Number: 70022100
+Put me on hold while he reviewed prior notes.  OK.
+
+New EFTPOS machine - Ingenico.
+Pre-Auth - already enabled
+We need:
+* Pre-Auth - enable Cancellation
+
+Josh it has been approved and just needs to be turned on for our terminal.
+Josh will chase up the team while I stay on hold.  OK.
+
+This is my 4th phone call.
+
+This was supposed to be set-up for us 7+ days ago.
+
+Pre-Auth Cancellation not available.
+
+I need to
+
+Full Refund - I need to call Fiserv
+How do I get a receipt ?
+How do I had the customer a receipt when they demand one ?
+
+	5847	15-Oct-2021	@ 13:47  $200 - now cancelled
+	1010  22-Oct-2021	@ 15:21  $200 - now cancelled
+	7847  16-Oct-2021	@ 17:34  $200 - now cancelled
+	1010  17-Oct-2021	@ 12:04	$200 - now cancelled
+
+EFI Team
+
+
+I need to complete FIRST.
+
+If I do a Pre-Auth for $10.00.
+And then do a COMPLETION for $1 - Me (the motel) gets $1 and the customer gets $9.00.
+CONFIRMED.
+This is sort of OK, but the receipt does says COMPLETE $1.00.  It does NOT say REFUND $9.00.
+If we give the customer this receipt they will argue.
+
+Alternative option:
+* Complete for Full amount and then REFUND for full amount.
+
+We might as well charge them the full amount and then REFUND them.
+Josh agreed.
+
+Pre-Auth Cancellation
+* Essential to our business
+* Can we get a terminal that supports it ?  What terminal choices do we have ?
+* Josh said: No, we don't provide functionality for Pre-Auth Cancellations.
+* Our old terminal had Pre-Auth Cancellation (was replaced by new terminal about 2 weeks ago)
+* This new terminal is supposed to have everything the old terminal had .. it doesn't have Pre-Auth Cancellation !!
+* Josh will check with his EFI team again (me on hold again).
+
+
+He is going to request his Terminal Team to see if there are any options for Pre-Auth Cancellation - another terminal, upgrades, etc.
+
+Reference Number: 70022100
+
+END: 11:55 AM
+
+
+-----------------------------------------------------------------
+
+START: 11:55 AM
+
+* Our old terminal had Pre-Auth Cancellation (was replaced by new terminal about 2 weeks ago)
+* This new terminal is supposed to have everything the old terminal had .. it doesn't have Pre-Auth Cancellation !!
+The new terminal never had Pre-Auth Cancellation
+You should never have
+* She said: You must COMPLETE for the FULL amount.
+* I said I have just done a Pre-Auth on my credit card for $10.00, with Josh on the line, and then did a COMPLETION for $0.01, and then a Batch Settlement which showed the $0.01 - so the motel got the $0.01 - which is correct.  Presumably the $9.99 is on it's way back to my credit card ...  Can she check / comfirm on her end.
+* She didn't know you coud do this.  She thought you had to COMPLETE for the FULL amount.
+* She will check with her technical people and phone me back.
+
+END: 12:00 PM
+
+
+Wed, 27-Oct-2021, 12:16 PM
+Ella
+
+Pre-Auth Cancellation might be an option down the road, but now now.
+She said must COMPLETE the pre-Auth in full, and then do a separate redund of any amount I want to refund.
+I said might as well charge full and refund $200
+If we don't do anything to a Pre-Auth what happens ?  It is automatically refunded to the client but can take them up to 30 days for issuing bank to process this.
+
+The big
+I have just cancelled all 4 outstanding Pre-Auth's with Josh.
+
+	5847	15-Oct-2021	@ 13:47  $200 - now cancelled
+	1010  22-Oct-2021	@ 15:21  $200 - now cancelled
+	7847  16-Oct-2021	@ 17:34  $200 - now cancelled
+	1010  17-Oct-2021	@ 12:04	$200 - now cancelled
+
+Only person who can see the cancelled Pre-Auth is the issuing bank.
+It usually takes them 1-2 days for them to process the cancellation.
+
+I said that we have cancelled pre-auths in the past and it has taken the issuing bank 7-10 days or more to release the payment back to the client.
+
+
+
+
+
+Wed, 27-Oct-2021, 12:26 PM
+
+EOF.
