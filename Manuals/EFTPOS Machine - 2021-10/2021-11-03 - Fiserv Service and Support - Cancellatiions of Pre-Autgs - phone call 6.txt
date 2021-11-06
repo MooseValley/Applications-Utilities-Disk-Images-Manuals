@@ -1,0 +1,86 @@
+Fiserv Service and Support - need Pre-Auth Completion, Cancellation enabled
+
+
+Fiserv Service and Support
+Ph. 1800 243 444
+
+Merchant ID:	003739612
+Terminal ID:	45002577
+Kinka Palms Motel
+Michael O'Malley
+07 4939 6437
+
+Reference Number: 70022100
+
+
+START: Wed, 03-Nov-2021, 02:14 PM
+Phone call #6.
+Need to speak to Merchant Services ... not EFTPOS Terminal Support
+1 -> 4
+
+No-one there ....
+
+
+
+START: Wed, 03-Nov-2021, 02:16 PM
+Phone call #7.
+Phone again.
+1 -> 1 Authorisations
+
+wrong, it's wanting to do PHONE Authorisations = NOT what I want !!!
+
+
+Wed, 03-Nov-2021, 02:19 PM
+Phone call #8.
+Phone again.
+1 -> 4
+
+Allan,
+
+Reference Number: 70022100
+
+This is my 6th phone call.
+
+On, Wed, 27-Oct-2021, I phone cancelled these Pre-Auth's:
+
+	5847	15-Oct-2021	@ 13:47  $200 - now cancelled
+	1010  22-Oct-2021	@ 15:21  $200 - now cancelled
+	7847  16-Oct-2021	@ 17:34  $200 - now cancelled
+	1010  17-Oct-2021	@ 12:04	$200 - now cancelled
+
+A Customer just phoned me - SCREAMING at me - telling me the Pre-Auth's still active.
+
+Connection list 8:29 into the phone call.
+
+
+Wed, 03-Nov-2021, 02:29 PM
+Phone call #9.
+
+Phone call cannot be completed at this time, please call again later.
+
+
+
+Wed, 03-Nov-2021, 02:29 PM
+Phone call #10
+
+Phone call cannot be completed at this time, please call again later.
+
+
+Wed, 03-Nov-2021, 02:31 PM
+Phone call #11 - to BoQ - Ph. 4933 8133
+
+Jules,
+
+Dan is on leave for 2 weeks
+Started to explain problem:
+Need to speak to Tracey or Rachelle
+
+Spoke to Rachelle, and told her the story.
+New EFTPOS machine, no Pre-Auth Cancellation functionality, I manually cancelled 4 on the phone with Fiiserv on Wed, 27-Oct-2021, but apparently they still are not cancelled.
+
+She said send the transactions I am trying to cancel through to her and she will chase things up on her end.
+
+Wed, 03-Nov-2021, 02:39 PM
+
+EOF.
+
