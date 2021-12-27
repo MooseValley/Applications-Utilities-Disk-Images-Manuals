@@ -2,6 +2,11 @@ EFTPOS Machine - Ingenico Move 5000
 
 Installed at motel by Mike on:	13-Oct-2021 @ 4:41 PM
 
+Password for Refunds, etc:
+= last 4 digits of Merchant ID
+= 9612
+
+
 
 https://www.fiserv.com/
 
